@@ -1,2 +1,2 @@
 # ANPR-capstone
-ANPR
+ANPR model for recognising no. plates
